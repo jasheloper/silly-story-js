@@ -1,4 +1,4 @@
-# JS Silly Story Generator Project
+# JavaScript Silly Story Generator
 
 To test comprehension of JavaScript fundamentals, such as variables, numbers, operators, strings, and arrays.
 
