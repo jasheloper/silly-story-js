@@ -15,3 +15,6 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_stor
 In progress...currently making css tweaks.
 
 https://jasheloper.github.io/silly-story-js/
+
+
+![My Image](sillystorypreview.png)
