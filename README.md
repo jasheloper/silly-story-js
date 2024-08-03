@@ -12,6 +12,6 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_stor
 
 ## Finished Project Preview
 
-In progress because I want to make CSS tweaks for fun.
+In progress...currently making css tweaks.
 
 https://jasheloper.github.io/silly-story-js/
