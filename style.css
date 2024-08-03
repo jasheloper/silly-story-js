@@ -39,6 +39,11 @@ body {
   input[type="text"]:focus {
     border-color: #ffc125;
   }
+
+  input[type="radio"] {
+    transform: scale(1.5);
+    margin: 0 10px;
+  }
   
   button {
     background: linear-gradient(135deg, #ff7e5f, #feb47b);
