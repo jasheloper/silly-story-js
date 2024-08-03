@@ -1,0 +1,81 @@
+body {
+  font-family: helvetica, sans-serif;
+  width: 350px;
+  margin: 0 auto;
+  text-align: center;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+}
+
+h1 {
+  color: white;
+  font-size: 3.5em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Adjust values as needed */
+}
+
+label {
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Adjust values as needed */
+  font-size: 1.5em;
+}
+
+div {
+  padding-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 11px; /* Padding for input */
+  width: 300px; /* Width of the input */
+  font-size: 1.2em; /* Font size */
+  color: white; /* Text color */
+  background: transparent; /* Make background transparent */
+  border: 2px solid rgba(255, 255, 255, 0.6); /* Light border for visibility */
+  border-radius: 5px; /* Rounded corners */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Subtle text shadow */
+  outline: none; /* Remove outline */
+  transition: border-color 0.3s; /* Smooth border color transition */
+}
+
+input[type="text"]:focus {
+  border-color: #ffc125; /* Change border color on focus */
+}
+
+button {
+  background: linear-gradient(
+    135deg,
+    #ff7e5f,
+    #feb47b
+  ); /* A gradient similar to your design */
+  color: white; /* Text color */
+  font-size: 1.5rem; /* Adjust size as needed */
+  padding: 10px 20px; /* Padding for the button */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer on hover */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Text shadow */
+  transition: background 0.3s; /* Smooth background transition */
+}
+
+/* Optional: Hover effect */
+button:hover {
+  background: linear-gradient(
+    135deg,
+    #feb47b,
+    #ff7e5f
+  ); /* Reverse the gradient on hover */
+}
+
+p {
+  background: #ffc125;
+  color: #5e2612;
+  padding: 10px;
+  visibility: hidden;
+}
+
+.story {
+  color: white; /* Text color */
+  font-size: 1.2em; /* Font size */
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for contrast */
+  border-radius: 5px; /* Rounded corners */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6); /* Text shadow for depth */
+}
