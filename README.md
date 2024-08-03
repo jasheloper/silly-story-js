@@ -12,4 +12,4 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_stor
 
 ## Finished Project Preview
 
-coming soon.
+In progress because I want to make CSS tweaks for fun.
