@@ -16,4 +16,4 @@ Demo @ https://jasheloper.github.io/silly-story-js/
 
 <br>
 
-![My Image](sillystorypreview.png)
+![My Image](sillystorypreview2.png)
