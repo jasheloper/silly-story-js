@@ -1,4 +1,4 @@
-# JavaScript Silly Story Generator
+# Silly Story Generator
 
 **About:** An interactive web app that dynamically generates a customized story based on user input.
 
