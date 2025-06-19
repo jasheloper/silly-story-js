@@ -12,4 +12,4 @@
 ## Key Features
 
 - A text field for the user to enter a name to customize the story.
-- location selection (U.S. or UK) used to determine the output for temperature and weight measurements.
+- Location selection (U.S. or UK) used to determine the output for temperature and weight measurements.
