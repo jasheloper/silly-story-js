@@ -6,7 +6,7 @@
 
 **Link:** [Click to view demo](https://jasheloper.github.io/silly-story-js/)
 
-[![Silly Story Generator preview](/images/silly-story-prev.png)](https://jasheloper.github.io/silly-story-js/)
+[![Silly Story Generator preview](/images/project-preview.png)](https://jasheloper.github.io/silly-story-js/)
 
 
 ## Key Features
