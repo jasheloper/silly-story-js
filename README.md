@@ -1,17 +1,15 @@
 # JavaScript Silly Story Generator
 
-To test comprehension of JavaScript fundamentals, such as variables, numbers, operators, strings, and arrays.
+**About:** An interactive web app that dynamically generates a customized story based on user input.
 
-Demo @ https://jasheloper.github.io/silly-story-js/
+**Technologies:** JavaScript, HTML, CSS
 
-<br>
+**Link:** [Click to view demo](https://jasheloper.github.io/silly-story-js/)
 
-![My Image](sillystorypreview2.png)
+<!-- [![alt](/images/)](https://jasheloper.github.io/silly-story-js/) -->
 
 
-<br>
+## Key Features
 
-## Link to Requirements
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator
-
+- A text field for the user to enter a name to customize the story.
+- location selection (U.S. or UK) used to determine the output for temperature and weight measurements.
