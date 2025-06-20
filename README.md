@@ -12,7 +12,7 @@ An interactive web app that dynamically generates a customized story based on us
 
 ### ⚙️ Technologies
 
-JavaScript, HTML, CSS
+HTML, CSS, JavaScript
 <br><br>
 
 ### 🔗 Link
